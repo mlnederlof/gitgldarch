@@ -6,8 +6,11 @@ On a personal level, I'm interested in sports (trailrunning, gravelbiking and sh
 I'm currently working on the proper setup of the pipeline Archi-Github, in order to develop new reference architecture. In particular concerning the EU Act 'Single Digital Gateway'
 
 # How to reach me 📫
-You can reach me here on Github. Just leave me a note!<br>
-Or you can follow me on Mastodon: @mlnederlof@mastodon.social
+You can reach me here on Github. Just leave me a note!<br><br>
+Or you can follow me in the Fediverse:
+* Mastodon: @mlnederlof@mastodon.social
+* Bookwyrm: MNbookz@bookwyrm.social
+* Pixelfed: MNtrailz@pixelfed.social
 
 
 <!---
