@@ -11,7 +11,7 @@ I'm currently working on the development of the architecture capability at NIPV.
 You can reach me here on Github. Just leave me a note!
 
 Or you can follow me in the Fediverse:
-* Mastodon: [@mlnederlof](https://mastodon.online/@mnederlo)
+* Mastodon: [@mlnederlof](https://eu.mastodon.green/mlnederlof)
 * Bookwyrm: [@MNbookz](bookwyrm.social/@MNbookz)
 * Pixelfed: [@MNtrailz](pixelfed.social/@MNtrailz)
 
